@@ -104,17 +104,17 @@ platforms:
   # === 其他/工具类 ===
   - id: "chongbuluo"
     name: "虫部落"
-    - id: "tencent-hot"
+  - id: "tencent-hot"
     name: "腾讯新闻 综合早报"
-    - id: "cls-telegraph"
+  - id: "cls-telegraph"
     name: "财联社 电报"
-    - id: "cls-depth"
+  - id: "cls-depth"
     name: "财联社 深度"
-    - id: "36kr-quick"
+  - id: "36kr-quick"
     name: "36氪 快讯"
-    - id: "36kr-renqi"
+  - id: "36kr-renqi"
     name: "36氪 人气榜"
-    - id: "freebuf"
+   - id: "freebuf"
     name: "Freebuf 网络安全"
 
 
